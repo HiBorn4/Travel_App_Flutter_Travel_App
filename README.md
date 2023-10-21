@@ -1,17 +1,37 @@
-# myapp
+# Travel Info App
 
-A new Flutter project.
+![App Demo](demo.gif)
+
+## Overview
+
+The Travel Info App is a Flutter-based mobile application that offers comprehensive travel information about various destinations. It enables users to explore different places, read reviews from other travelers, and provide their own feedback through a review and rating system. This readme provides an overview of the application and its key features.
+
+## Features
+
+1. **Destination Information**
+   - The app allows users to search for and select a travel destination.
+   - Upon selecting a destination, users can access detailed information about the place, including descriptions, images, and important facts.
+   - This feature offers an informative and engaging way for users to learn about their desired travel destinations.
+
+2. **Review and Rating System**
+   - Users can read reviews from other travelers who have visited the destination.
+   - They can also submit their own reviews and rate the destination based on their experiences.
+   - The review system fosters community engagement and provides valuable insights for prospective travelers.
+
+3. **User-Friendly Navigation**
+   - The app features an intuitive and user-friendly navigation system, allowing users to seamlessly switch between different destinations and read reviews.
+   - A user-friendly interface ensures a smooth and enjoyable experience for travelers of all levels of tech-savviness.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To run the Travel Info App on your local environment, follow these steps:
 
-A few resources to get you started if this is your first Flutter project:
+1. Clone the repository.
+2. Set up your Flutter development environment.
+3. Install the required dependencies using `flutter pub get`.
+4. Run the app using `flutter run`.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+Enjoy exploring new travel destinations and sharing your experiences with the Travel Info App!
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# tecudia_technical_round_assignment
+For more details on the app's functionalities and code structure, refer to the source code and documentation in this repository.
+
