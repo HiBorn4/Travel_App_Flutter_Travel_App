@@ -1,6 +1,12 @@
 # Travel Info App
 
-![App Demo](demo.gif)
+<div align="center">
+  <img src="assets/Screenshots/home.jpg" alt="Home Screen" width="300">
+</div>
+
+<div align="center">
+  <img src="assets/Screenshots/detail_screen.jpg" alt="Home Screen" width="300">
+</div>
 
 ## Overview
 
