@@ -1,12 +1,17 @@
 # Travel Info App
 
-<div align="center">
-  <img src="assets/Screenshots/home.jpg" alt="Home Screen" width="300">
-</div>
-
-<div align="center">
-  <img src="assets/Screenshots/detail_screen.jpg" alt="Home Screen" width="300">
-</div>
+<p align="center">
+  <table>
+    <tr>
+      <td style="padding-right: 20">
+        <img src="assets/Screenshots/home.jpg" alt="App Screenshot 1" width="480">
+      </td>
+      <td>
+        <img src="assets/Screenshots/detail_screen.jpg" alt="App Screenshot 2" width="480">
+      </td>
+    </tr>
+  </table>
+</p>
 
 ## Overview
 
