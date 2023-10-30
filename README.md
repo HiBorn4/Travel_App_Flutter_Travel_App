@@ -1,5 +1,10 @@
 # Travel Info App
 
+## Overview
+
+The Travel Info App is a Flutter-based mobile application that offers comprehensive travel information about various destinations. It enables users to explore different places, read reviews from other travelers, and provide their own feedback through a review and rating system. This readme provides an overview of the application and its key features.
+
+
 <p align="center">
   <table>
     <tr>
@@ -13,9 +18,6 @@
   </table>
 </p>
 
-## Overview
-
-The Travel Info App is a Flutter-based mobile application that offers comprehensive travel information about various destinations. It enables users to explore different places, read reviews from other travelers, and provide their own feedback through a review and rating system. This readme provides an overview of the application and its key features.
 
 ## Features
 
